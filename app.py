@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load trained model and columns
-with open("model/salary_model.pkl", "rb") as f:
+with open("salary_model.pkl", "rb") as f:
+
     model = pickle.load(f)
 
 with open("model/model_columns.pkl", "rb") as f:
