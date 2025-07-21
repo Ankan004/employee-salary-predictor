@@ -59,11 +59,7 @@ streamlit run app.py
 ------
 
 🤖 Model Performance
-Metric	                                Value
-Best Model	                       Random Forest Regressor
-R² Score                              	0.940
-MAE                                 	₹8,524.79
-RMSE                                	₹11,981.83
+The Employee Salary Prediction model is built using a Random Forest Regressor, selected after evaluating multiple algorithms for accuracy and consistency. It achieved an impressive R² score of 0.940, indicating that 94% of the variance in salary data is explained by the model. The Mean Absolute Error (MAE) is ₹8,524.79, and the Root Mean Squared Error (RMSE) is ₹11,981.83, demonstrating the model's strong predictive capability and robustness in estimating employee salaries based on input features.
 
 🙋‍♂️ Author
 Developed with ❤️ by Ankan Ghosh
