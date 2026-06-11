@@ -1,5 +1,5 @@
 # 💼 AI-Powered Employee Salary Analytics & Prediction System
-
+🚀 **Live Demo:** https://ai-salary-analytics-ankan.streamlit.app/
 An advanced Machine Learning and Explainable AI application that predicts employee salaries based on demographic, educational, and professional attributes.
 
 Built using Python, Streamlit, Scikit-Learn, XGBoost, Plotly, and SHAP.
