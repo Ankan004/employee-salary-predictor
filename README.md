@@ -1,69 +1,220 @@
-# 💼 Employee Salary Predictor
+# 💼 AI-Powered Employee Salary Analytics & Prediction System
 
-This is a machine learning web app that predicts an employee's salary based on their gender, education level, and years of experience.
+An advanced Machine Learning and Explainable AI application that predicts employee salaries based on demographic, educational, and professional attributes.
 
-🔗 **Live App**: [https://ankan004.streamlit.app](https://ankan004.streamlit.app)
-
----
-
-## ✨ Features
-
-- ✅ Predicts salaries using a trained ML model
-- ✅ Built with Streamlit for a smooth user experience
-- ✅ Easy and clean UI
-- ✅ Includes graphs and performance metrics
+Built using Python, Streamlit, Scikit-Learn, XGBoost, Plotly, and SHAP.
 
 ---
 
-## ⚙️ Technologies Used
+## 🚀 Live Features
 
-- Python 3
-- Pandas & NumPy
-- Scikit-learn
-- Streamlit
-- Matplotlib / Seaborn
+### 🔮 Salary Prediction
+- Predict employee salary using trained ML models
+- Interactive user inputs
+- Real-time prediction results
+
+### 📊 Analytics Dashboard
+- Salary distribution analysis
+- Experience vs Salary visualization
+- Education vs Salary insights
+- Gender distribution analysis
+- Dataset preview and statistics
+
+### 📈 Model Performance Comparison
+- Linear Regression
+- Random Forest Regressor
+- XGBoost Regressor
+- Automatic best model selection
+
+### 🔍 Feature Importance Analysis
+- Global feature importance visualization
+- Top influencing salary factors
+- XGBoost feature ranking
+
+### 🧠 Explainable AI (SHAP)
+- Local prediction explanations
+- Positive contributors
+- Negative contributors
+- SHAP-based interpretability
+
+### 📄 Report Generation
+- Download prediction reports as CSV
+- Export salary insights
 
 ---
 
-## 📁 Project Structure
+# 🏗️ Project Architecture
 
+```text
 employee-salary-predictor/
-├── app.py # Main Streamlit app
-├── train.py # Model training script
-├── predict.py # Prediction script
-├── model/
-│ ├── salary_model.pkl # Trained Random Forest model
-│ └── model_columns.pkl # Feature columns for prediction
+│
 ├── data/
-│ └── Salary Data.csv # Employee salary dataset
-├── requirements.txt # Required Python packages
-└── README.md # Project overview (this file)
-
+│   └── Salary_Data.csv
+│
+├── models/
+│   ├── best_pipeline.pkl
+│   ├── metrics.json
+│   └── feature_importance.csv
+│
+├── src/
+│   ├── train.py
+│   ├── predict.py
+│   ├── feature_importance.py
+│   ├── report_generator.py
+│   ├── benchmark.py
+│   └── utils.py
+│
+├── app.py
+├── requirements.txt
+└── README.md
+```
 
 ---
 
-# 📦 Step 1: Clone the repository
+# 🤖 Machine Learning Workflow
+
+## Data Preprocessing
+
+- Missing value handling
+- Categorical encoding
+- Pipeline-based preprocessing
+- Train-Test Split
+
+## Models Evaluated
+
+| Model | Purpose |
+|---------|---------|
+| Linear Regression | Baseline Regression |
+| Random Forest | Ensemble Learning |
+| XGBoost | Gradient Boosting |
+
+## Evaluation Metrics
+
+- R² Score
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+
+---
+
+# 📈 Best Model Performance
+
+| Metric | Score |
+|----------|----------|
+| Best Model | XGBoost |
+| R² Score | 0.870 |
+| MAE | 10,575 |
+| RMSE | 17,626 |
+
+---
+
+# 🔍 Key Insights
+
+The model identified the following features as most influential:
+
+1. Age
+2. Years of Experience
+3. Education Level
+4. Job Title
+5. Gender
+
+---
+
+# 🛠️ Tech Stack
+
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+- SHAP
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Visualization
+- Plotly
+
+### Frontend
+- Streamlit
+
+### Model Serialization
+- Pickle
+
+---
+
+# 📸 Screenshots
+
+## Prediction Dashboard
+
+(Add Screenshot)
+
+## Analytics Dashboard
+
+(Add Screenshot)
+
+## Model Performance
+
+(Add Screenshot)
+
+## Feature Importance
+
+(Add Screenshot)
+
+## Explainable AI (SHAP)
+
+(Add Screenshot)
+
+---
+
+# ⚙️ Installation
+
+Clone repository
+
+```bash
 git clone https://github.com/Ankan004/employee-salary-predictor.git
+```
+
+Move into project
+
+```bash
 cd employee-salary-predictor
+```
 
-# 🐍 Step 2: (Optional) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate         # On Windows
-# source venv/bin/activate   # On macOS/Linux
+Install dependencies
 
-# 📚 Step 3: Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# 🚀 Step 4: Run the Streamlit app
+Run application
+
+```bash
 streamlit run app.py
-------
+```
 
-🤖 Model Performance
-The Employee Salary Prediction model is built using a Random Forest Regressor, selected after evaluating multiple algorithms for accuracy and consistency. It achieved an impressive R² score of 0.940, indicating that 94% of the variance in salary data is explained by the model. The Mean Absolute Error (MAE) is ₹8,524.79, and the Root Mean Squared Error (RMSE) is ₹11,981.83, demonstrating the model's strong predictive capability and robustness in estimating employee salaries based on input features.
+---
 
-🙋‍♂️ Author
-Developed with ❤️ by Ankan Ghosh
-📬 Feel free to connect or contribute!
+# 🎯 Future Improvements
 
+- Salary forecasting
+- Deep Learning models
+- Automated report PDFs
+- Cloud deployment
+- Advanced Explainable AI visualizations
 
+---
 
+# 👨‍💻 Author
+
+**Ankan Ghosh**
+
+Full Stack Developer | AI Enthusiast | CSE Undergraduate
+
+GitHub:
+https://github.com/Ankan004
+
+LinkedIn:
+https://www.linkedin.com/in/ankan-ghosh-7a3b77335
+
+---
+
+⭐ If you found this project useful, consider giving it a star.

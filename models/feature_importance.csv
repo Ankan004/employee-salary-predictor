@@ -1,0 +1,157 @@
+Feature,Importance
+num__Age,0.35050946
+num__Years of Experience,0.14423382
+cat__Education Level_Bachelor's,0.046049617
+cat__Job Title_Senior Graphic Designer,0.02593004
+cat__Job Title_Sales Operations Manager,0.018246964
+cat__Job Title_Administrative Assistant,0.018174702
+cat__Job Title_Data Analyst,0.016715456
+cat__Job Title_Senior Sales Manager,0.01640206
+cat__Job Title_Chief Technology Officer,0.016125139
+cat__Job Title_Senior Project Manager,0.01607095
+cat__Education Level_PhD,0.015579028
+cat__Job Title_Recruiter,0.014841436
+cat__Job Title_Supply Chain Manager,0.013753261
+cat__Job Title_Supply Chain Analyst,0.012679733
+cat__Job Title_Software Developer,0.011717143
+cat__Job Title_Data Scientist,0.011142048
+cat__Job Title_Project Manager,0.010773912
+cat__Job Title_Senior Marketing Manager,0.010542833
+cat__Job Title_Chief Data Officer,0.010307799
+cat__Job Title_Senior Project Coordinator,0.009582513
+cat__Job Title_Sales Director,0.009045599
+cat__Job Title_Senior Product Manager,0.008900377
+cat__Job Title_Sales Manager,0.008379588
+cat__Job Title_Event Coordinator,0.007928475
+cat__Education Level_Master's,0.007175672
+cat__Job Title_Senior Accountant,0.006896411
+cat__Job Title_Customer Service Manager,0.006788198
+cat__Job Title_Training Specialist,0.006494777
+cat__Job Title_Senior Operations Manager,0.0053917016
+cat__Job Title_Senior Operations Coordinator,0.0043737013
+cat__Job Title_Senior Business Development Manager,0.0043118107
+cat__Job Title_Operations Analyst,0.0041657668
+cat__Job Title_Director of Marketing,0.0040695993
+cat__Job Title_Senior Software Developer,0.0040093176
+cat__Job Title_Research Scientist,0.003982733
+cat__Job Title_Director of Operations,0.0039561377
+cat__Job Title_Senior Financial Manager,0.0038559744
+cat__Job Title_Office Manager,0.0036060659
+cat__Job Title_Senior HR Manager,0.0035492238
+cat__Job Title_Senior Research Scientist,0.0035207535
+cat__Job Title_Senior Financial Analyst,0.0034682823
+cat__Job Title_Senior Product Development Manager,0.0033563673
+cat__Job Title_HR Generalist,0.0032596297
+cat__Job Title_HR Manager,0.0030877236
+cat__Job Title_Junior Business Operations Analyst,0.0030864347
+cat__Job Title_VP of Finance,0.0029101064
+cat__Gender_Female,0.0028991716
+cat__Job Title_Project Engineer,0.0027438777
+cat__Job Title_Senior Marketing Specialist,0.0027437692
+cat__Job Title_Technical Recruiter,0.0025796755
+cat__Job Title_Senior Human Resources Coordinator,0.0025246409
+cat__Job Title_Senior Data Analyst,0.002461357
+cat__Job Title_Senior Business Analyst,0.0023646867
+cat__Job Title_Junior Data Analyst,0.0023572666
+cat__Job Title_Junior Financial Advisor,0.0023256105
+cat__Job Title_IT Support Specialist,0.00228095
+cat__Job Title_Senior Researcher,0.0021168
+cat__Job Title_Director of Human Resources,0.002019859
+cat__Job Title_Junior Operations Manager,0.0019458684
+cat__Job Title_VP of Operations,0.0018858266
+cat__Job Title_Operations Director,0.0018295867
+cat__Job Title_Director of Sales,0.001739201
+cat__Job Title_Senior Account Manager,0.0016349154
+cat__Job Title_Senior Consultant,0.0015903249
+cat__Job Title_Junior Marketing Specialist,0.0015836165
+cat__Job Title_Senior Software Architect,0.0015369011
+cat__Job Title_Financial Manager,0.0014981879
+cat__Job Title_Junior Product Manager,0.0014958638
+cat__Job Title_Senior Data Engineer,0.0014755971
+cat__Job Title_Junior Marketing Manager,0.0014322425
+cat__Job Title_Senior Human Resources Manager,0.001413396
+cat__Job Title_Software Project Manager,0.0013639737
+cat__Job Title_Junior Project Manager,0.001318675
+cat__Job Title_Senior Manager,0.001311382
+cat__Job Title_Junior Sales Representative,0.0012819315
+cat__Job Title_Digital Marketing Manager,0.0012406133
+cat__Job Title_Public Relations Manager,0.0012225318
+cat__Job Title_Social Media Manager,0.0012021888
+cat__Job Title_Junior Marketing Coordinator,0.0011378344
+cat__Job Title_Principal Engineer,0.0011216766
+cat__Job Title_Senior Marketing Director,0.0010256299
+cat__Job Title_Business Development Manager,0.00096290867
+cat__Job Title_Director of Engineering,0.00095191295
+cat__Job Title_Business Intelligence Analyst,0.0009503328
+cat__Job Title_Junior Software Developer,0.00090393634
+cat__Job Title_Junior Operations Analyst,0.0009036398
+cat__Job Title_Content Marketing Manager,0.0008904616
+cat__Job Title_Junior Web Developer,0.00087228726
+cat__Job Title_Marketing Coordinator,0.00086043036
+cat__Job Title_Senior Marketing Coordinator,0.0008497946
+cat__Job Title_Senior Sales Representative,0.0008385704
+cat__Job Title_Senior Product Marketing Manager,0.000836537
+cat__Job Title_Sales Associate,0.0008108296
+cat__Job Title_Junior HR Generalist,0.0007985682
+cat__Job Title_Senior Scientist,0.00078795437
+cat__Job Title_Product Manager,0.000784432
+cat__Job Title_Customer Service Representative,0.0006374908
+cat__Job Title_Senior Financial Advisor,0.00062352937
+cat__Job Title_Software Manager,0.0005981966
+cat__Job Title_Senior Marketing Analyst,0.00056201476
+cat__Job Title_Senior Data Scientist,0.0005317245
+cat__Job Title_Technical Writer,0.00046239907
+cat__Job Title_Junior Account Manager,0.00041292785
+cat__Job Title_Junior Developer,0.00040782677
+cat__Job Title_Junior UX Designer,0.0003611938
+cat__Job Title_Junior Business Analyst,0.000270748
+cat__Job Title_Junior Data Scientist,0.00021976657
+cat__Job Title_Customer Success Rep,0.00012782624
+cat__Job Title_Financial Advisor,0.00012780323
+cat__Job Title_Director of HR,0.0
+cat__Job Title_Director of Business Development,0.0
+cat__Job Title_Director of Finance,0.0
+cat__Job Title_Digital Content Producer,0.0
+cat__Job Title_Creative Director,0.0
+cat__Job Title_Customer Service Rep,0.0
+cat__Job Title_Data Entry Clerk,0.0
+cat__Job Title_Business Analyst,0.0
+cat__Gender_Male,0.0
+cat__Job Title_Accountant,0.0
+cat__Job Title_Director,0.0
+cat__Job Title_Director of Product Management,0.0
+cat__Job Title_Graphic Designer,0.0
+cat__Job Title_Director of Sales and Marketing,0.0
+cat__Job Title_Help Desk Analyst,0.0
+cat__Job Title_Product Designer,0.0
+cat__Job Title_Marketing Analyst,0.0
+cat__Job Title_Marketing Manager,0.0
+cat__Job Title_Junior Marketing Analyst,0.0
+cat__Job Title_Junior Social Media Manager,0.0
+cat__Job Title_Junior Recruiter,0.0
+cat__Job Title_Junior Software Engineer,0.0
+cat__Job Title_Junior Web Designer,0.0
+cat__Job Title_Junior Operations Coordinator,0.0
+cat__Job Title_Junior Business Development Associate,0.0
+cat__Job Title_Junior Accountant,0.0
+cat__Job Title_Junior Advertising Coordinator,0.0
+cat__Job Title_Junior Copywriter,0.0
+cat__Job Title_Junior Designer,0.0
+cat__Job Title_Junior Financial Analyst,0.0
+cat__Job Title_Junior HR Coordinator,0.0
+cat__Job Title_IT Manager,0.0
+cat__Job Title_Director of Human Capital,0.0
+cat__Job Title_Financial Analyst,0.0
+cat__Job Title_Senior HR Specialist,0.0
+cat__Job Title_Senior Account Executive,0.0
+cat__Job Title_Senior Engineer,0.0
+cat__Job Title_Senior IT Consultant,0.0
+cat__Job Title_Senior IT Project Manager,0.0
+cat__Job Title_Senior Operations Analyst,0.0
+cat__Job Title_Senior Software Engineer,0.0
+cat__Job Title_Senior Product Designer,0.0
+cat__Job Title_Senior Quality Assurance Analyst,0.0
+cat__Job Title_Senior UX Designer,0.0
+cat__Job Title_Strategy Consultant,0.0
+cat__Job Title_UX Designer,0.0
+cat__Job Title_Web Developer,0.0
